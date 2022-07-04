@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ddbcccb400415a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad09ccc298553ae9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics/4 Disks and Filesystems.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "166849a88cecf1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f740b7b11fbe9402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf301a9dfcf201c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4cdc09e67225f8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1672edfa187035a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3073f5ce628d9fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b4ab6d13c4a0fd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/4 Disks and Filesystems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ad09ccc298553ae9",
+  "lastOpenFiles": [
+    "Topics/4 Disks and Filesystems.md",
+    "Commands/mkswap.md",
+    "fsck.md",
+    "filesystems.md",
+    "Commands/mkfs.md",
+    "Commands/fdisk.md",
+    "Commands/df.md",
+    "images/Pasted image 20220531233313.png",
+    "Commands/mount.md",
+    "Untitled.md"
+  ]
+}
