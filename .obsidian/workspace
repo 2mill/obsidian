@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "9a32504b7c41eead",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f62dd019d9c4915",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spanish/Chapter 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c67e6d699b393db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "05679cba130d4731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea406fe9a13d5b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c2797596e99fc30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7255ce9bbda748a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2589558d5ffb986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb44329ad4da902",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spanish/Chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b570132390e5ba9",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "94e6d2109f364918",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f62dd019d9c4915",
+  "lastOpenFiles": [
+    "Spanish/Chapter 1.md",
+    "Spanish/_progress-tracker.md",
+    "Spanish/Vocab.md",
+    "Learning Linux/Topics/4 Disks and Filesystems.md",
+    "main/Journals/2022/06.md",
+    "Learning Linux/Topics/7 Systems Configuration.md",
+    "Python Libraries.md",
+    "Learning Linux/Topics/topics.md",
+    "attachments/Pasted image 20220616142109.png",
+    "attachments/Pasted image 20220616141313.png"
+  ]
+}

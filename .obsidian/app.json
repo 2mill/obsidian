@@ -1,0 +1,19 @@
+{
+  "enabledPlugins": [],
+  "vimMode": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments",
+  "spellcheckDictionary": [
+    "autocorrect",
+    "LoFi",
+    "filesystems",
+    "resizable",
+    "wiretable",
+    "Filesystem",
+    "filesystem",
+    "Pluggable"
+  ],
+  "alwaysUpdateLinks": true
+}

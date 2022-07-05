@@ -1,5 +1,15 @@
 # Nouns, Articles and Adjectives
 
+### Articles
+
+| Article/Plural | Type       | Gender |
+| -------------- | ---------- | ------ |
+| El/Los         | definite   | masc.  |
+| La/las         | definite   | fem.   |
+| un/unos        | indefinite | masc.  |
+| una/unas       | indefinite | fem.       |
+
+
 ## Masculine Nouns
 
 Masculine articles are `un`, `el`, and `los`.
@@ -31,3 +41,28 @@ el carro rojo - the red car
 el muchacho simpático - the nice boy
 el hermano hermoso - the handsome man
 ```
+
+Adjectives conjugate differently depending on it describing a male or female noun, but only for a certain case.
+	If the adjective ends in `-o` , then it ends in *o* or *a* for masculine and feminine respectively.
+### Plural Adjectives
+Adjectives ending in a vowel, add a `-s` at the end to make it plural.
+| Singular  | Plural     |
+| --------- | ---------- |
+| blanco    | blancos    |
+| roja      | rojas      |
+| verde     | verdes     |
+| excelente | excelentes |
+These `-s` endings are applied to adjectives changing due to plurality.
+| Singular             | Plural                  |
+| -------------------- | ----------------------- |
+| el libro blanco      | los libros blancos      |
+| el tomate rojo       | los tomates rojos       |
+| la casa blanca       | las casas blancas       |
+| la persona simpática | las personas simpáticas |
+Adjectives that end in consonants apply an `-es` to the end of the word.
+| Singular | Plural  |
+| -------- | ------- |
+| gris     | grises  |
+| fácil    | fáciles |
+| joven    | jovenes |
+| marrón   | marrónes        |
